@@ -1,4 +1,4 @@
-A console-based project management tool for streamlined project control and execution from the command line.The purpose of this application is to provide a centralized launching panel that allows users to manage and run various projects from a single platform. Users can add, remove, edit, and launch projects through this panel. Additionally, they can personalize general settings, such as managing data locations.
+The purpose of this application is to provide a centralized launching panel that allows users to manage and run various projects from a single platform. Users can add, remove, edit, and launch projects through this panel. Additionally, they can personalize general settings, such as managing data locations.
 
 Here is a description highlighting the key features of the application:
 
